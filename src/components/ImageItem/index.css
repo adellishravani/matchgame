@@ -1,0 +1,13 @@
+.list {
+  padding: 5px;
+  margin: 8px;
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.image {
+  height: 60px;
+  width: 60px;
+}
